@@ -1,10 +1,10 @@
-# 简而生存 - Minecraft 1.21.10 实用生存整合包
+# LeanCraft - Minecraft 1.21.10 实用生存整合包
 
 > 一个专注于生存实用向的轻量级Minecraft整合包系列
 
 ## 📋 整合包简介
 
-"[简而生存](https://github.com/fhowotop/LeanCraft)"是一个为Minecraft设计的实用向生存整合包。基于Fabric端，整合包在保持游戏原汁原味的同时，提供了丰富的生存辅助功能和性能优化。
+"[LeanCraft](https://github.com/fhowotop/LeanCraft)"是一个为Minecraft设计的实用向生存整合包。基于Fabric端，整合包在保持游戏原汁原味的同时，提供了丰富的生存辅助功能和性能优化。
 
 ## 🚀 快速开始
 
@@ -16,7 +16,7 @@
 ### 安装方法（PCL2）
 1. 进入启动器单击左下角“版本选择”
 2. 选择"导入整合包"，选择本整合包文件夹打开
-3. 选择一个空文件夹安装整合包"简而生存"
+3. 选择一个空文件夹安装整合包"LeanCraft"
 4. 启动游戏
 
 ## 关于许可证
